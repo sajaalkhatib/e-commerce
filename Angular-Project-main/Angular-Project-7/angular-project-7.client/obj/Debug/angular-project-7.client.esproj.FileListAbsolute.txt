@@ -1,0 +1,2 @@
+C:\Users\Orange\Desktop\Angular-Project-7\angular-project-7.client\obj\Debug\angular-project-7.client.esproj.CoreCompileInputs.cache
+C:\Users\Orange\Desktop\Angular-Project\Angular-Project-7\angular-project-7.client\obj\Debug\angular-project-7.client.esproj.CoreCompileInputs.cache

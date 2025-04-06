@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8075D0B9-E74D-50BA-3C42-CF8594709BCF}|angular-project-7.client\\angular-project-7.client.esproj|c:\\users\\orange\\desktop\\angular-project\\angular-project-7\\angular-project-7.client\\src\\app\\user\\sidebar\\sidebar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8075D0B9-E74D-50BA-3C42-CF8594709BCF}|angular-project-7.client\\angular-project-7.client.esproj|solutionrelative:angular-project-7.client\\src\\app\\user\\sidebar\\sidebar.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8075D0B9-E74D-50BA-3C42-CF8594709BCF}|angular-project-7.client\\angular-project-7.client.esproj|c:\\users\\orange\\desktop\\angular-project\\angular-project-7\\angular-project-7.client\\src\\app\\user\\cart\\cart.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8075D0B9-E74D-50BA-3C42-CF8594709BCF}|angular-project-7.client\\angular-project-7.client.esproj|solutionrelative:angular-project-7.client\\src\\app\\user\\cart\\cart.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8075D0B9-E74D-50BA-3C42-CF8594709BCF}|angular-project-7.client\\angular-project-7.client.esproj|c:\\users\\orange\\desktop\\angular-project\\angular-project-7\\angular-project-7.client\\src\\app\\user\\sidebar\\sidebar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8075D0B9-E74D-50BA-3C42-CF8594709BCF}|angular-project-7.client\\angular-project-7.client.esproj|solutionrelative:angular-project-7.client\\src\\app\\user\\sidebar\\sidebar.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8075D0B9-E74D-50BA-3C42-CF8594709BCF}|angular-project-7.client\\angular-project-7.client.esproj|c:\\users\\orange\\desktop\\angular-project\\angular-project-7\\angular-project-7.client\\src\\app\\user\\checkout\\checkout.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8075D0B9-E74D-50BA-3C42-CF8594709BCF}|angular-project-7.client\\angular-project-7.client.esproj|solutionrelative:angular-project-7.client\\src\\app\\user\\checkout\\checkout.component.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8075D0B9-E74D-50BA-3C42-CF8594709BCF}|angular-project-7.client\\angular-project-7.client.esproj|c:\\users\\orange\\desktop\\angular-project\\angular-project-7\\angular-project-7.client\\src\\app\\services\\shop.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}",
+      "RelativeMoniker": "D:0:0:{8075D0B9-E74D-50BA-3C42-CF8594709BCF}|angular-project-7.client\\angular-project-7.client.esproj|solutionrelative:angular-project-7.client\\src\\app\\services\\shop.service.ts||{0F2454B1-A556-402D-A7D0-1FDE7F99DEE0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8075D0B9-E74D-50BA-3C42-CF8594709BCF}|angular-project-7.client\\angular-project-7.client.esproj|c:\\users\\orange\\desktop\\angular-project\\angular-project-7\\angular-project-7.client\\src\\app\\user\\checkout\\checkout.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{8075D0B9-E74D-50BA-3C42-CF8594709BCF}|angular-project-7.client\\angular-project-7.client.esproj|solutionrelative:angular-project-7.client\\src\\app\\user\\checkout\\checkout.component.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cart.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\angular-project-7.client\\src\\app\\User\\cart\\cart.component.html",
+              "RelativeDocumentMoniker": "angular-project-7.client\\src\\app\\User\\cart\\cart.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\angular-project-7.client\\src\\app\\User\\cart\\cart.component.html",
+              "RelativeToolTip": "angular-project-7.client\\src\\app\\User\\cart\\cart.component.html",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAAFwAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-29T23:59:40.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "sidebar.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\angular-project-7.client\\src\\app\\User\\sidebar\\sidebar.component.html",
+              "RelativeDocumentMoniker": "angular-project-7.client\\src\\app\\User\\sidebar\\sidebar.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\angular-project-7.client\\src\\app\\User\\sidebar\\sidebar.component.html",
+              "RelativeToolTip": "angular-project-7.client\\src\\app\\User\\sidebar\\sidebar.component.html",
+              "ViewState": "AgIAAJIAAAAAAAAAAAAAwJwAAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-29T23:58:36.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "sidebar.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\angular-project-7.client\\src\\app\\User\\sidebar\\sidebar.component.ts",
+              "RelativeDocumentMoniker": "angular-project-7.client\\src\\app\\User\\sidebar\\sidebar.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\angular-project-7.client\\src\\app\\User\\sidebar\\sidebar.component.ts",
+              "RelativeToolTip": "angular-project-7.client\\src\\app\\User\\sidebar\\sidebar.component.ts",
+              "ViewState": "AgIAAC8AAAAAAAAAAAAAwDwAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T23:58:04.716Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "shop.service.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\angular-project-7.client\\src\\app\\Services\\shop.service.ts",
+              "RelativeDocumentMoniker": "angular-project-7.client\\src\\app\\Services\\shop.service.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\angular-project-7.client\\src\\app\\Services\\shop.service.ts",
+              "RelativeToolTip": "angular-project-7.client\\src\\app\\Services\\shop.service.ts",
+              "ViewState": "AgIAAMoAAAAAAAAAAADgv9UAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T23:50:43.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "checkout.component.ts",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\angular-project-7.client\\src\\app\\User\\checkout\\checkout.component.ts",
+              "RelativeDocumentMoniker": "angular-project-7.client\\src\\app\\User\\checkout\\checkout.component.ts",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\angular-project-7.client\\src\\app\\User\\checkout\\checkout.component.ts",
+              "RelativeToolTip": "angular-project-7.client\\src\\app\\User\\checkout\\checkout.component.ts",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003213|",
+              "WhenOpened": "2025-03-29T23:32:51.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "checkout.component.html",
+              "DocumentMoniker": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\angular-project-7.client\\src\\app\\User\\checkout\\checkout.component.html",
+              "RelativeDocumentMoniker": "angular-project-7.client\\src\\app\\User\\checkout\\checkout.component.html",
+              "ToolTip": "C:\\Users\\Orange\\Desktop\\Angular-Project\\Angular-Project-7\\angular-project-7.client\\src\\app\\User\\checkout\\checkout.component.html",
+              "RelativeToolTip": "angular-project-7.client\\src\\app\\User\\checkout\\checkout.component.html",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAAAIUAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2025-03-29T23:26:30.292Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
